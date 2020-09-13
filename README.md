@@ -33,14 +33,8 @@ _NOTE: Stats does not indicate my skill level or something like that :grimacing:
 <a href="https://github.com/rans0/sebaran-covid19-indonesia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rans0&repo=sebaran-covid19-indonesia" />
 </a>
-<a href="https://github.com/rans0/El-Casa-Host">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/username=rans0&repo=El-Casa-Host" />
-</a>
 <a href="https://github.com/rans0/main-dengan-go">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rans0&repo=main-dengan-go" />
-</a>
-<a href="https://github.com/rans0/simple-crud-livewire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rans0&repo=simple-crud-livewire" />
 </a>
 
 ---
