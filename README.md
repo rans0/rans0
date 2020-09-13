@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm ran  :sunglasses: :sweat_smile:</h1>
 <h3 align="center">Code is not my passion, but i try to make it happen to me :stuck_out_tongue_winking_eye: :joy:</h3>
 
-<p>:grin: I’m currently focused <b>As Backend Engineer</b></p>
-<p>:heart: Latest favorite framework <b>Laravel</b></p>
+<p align="center">:grin: I’m currently focused <b>As Backend Engineer</b></p>
+<p align="center">:heart: Latest favorite framework <b>Laravel</b></p>
 
 ---
 
@@ -14,7 +14,7 @@ _NOTE: Stats does not indicate my skill level or something like that :grimacing:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rans0&layout=compact&theme=radical" />
 </a>
 
-<h5 align="center"><i><strong>the language I use often</strong></i></h5>
+<h5 align="center"><i><strong>Technologies I use often</strong></i></h5>
 <p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 ---
