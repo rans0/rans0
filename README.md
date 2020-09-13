@@ -8,7 +8,7 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that :grimacing:_
+_NOTE: Stats does not indicate my skill level or something like that :grimacing:_
 
 <a href="https://github.com/sabesansathananthan">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rans0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
