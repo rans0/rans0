@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm ran</h1>
 <h3 align="center">Code is not my passion, but i try to make it happen to me.</h3>
 
-- :grin: I’m currently focused **As Backend Engineer**
-
-- :heart: Latest favorite framework **Laravel**
-
+<p>:grin: I’m currently focused <b>As Backend Engineer</p>
+<p>:heart: Latest favorite framework <b>Laravel</p>
 
 ---
 
