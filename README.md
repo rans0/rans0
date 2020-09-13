@@ -8,9 +8,9 @@
 
 _NOTE: Stats does not indicate my skill level or something like that :grimacing:_
 
-<a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rans0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sabesansathananthan">
+<a href="https://github.com/rans0">
+<img align="center" alt="rans Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rans0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/rans0">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rans0&layout=compact&theme=radical" />
 </a>
 
@@ -24,5 +24,23 @@ _NOTE: Stats does not indicate my skill level or something like that :grimacing:
 <a href="https://linkedin.com/in/kharansyahts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kharansyahts" height="30" width="30" /></a>
 <a href="https://instagram.com/dekrannn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dekrannn" height="30" width="30" /></a>
 </p>
+
+---
+
+<h2 align="center"><b>Project</b></h2>
+<h6 align="center"><i>```most of my project is private```</i></h6>
+
+<a href="https://github.com/rans0/sebaran-covid19-indonesia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rans0&repo=sebaran-covid19-indonesia" />
+</a>
+<a href="https://github.com/rans0/El-Casa-Host">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/username=rans0&repo=El-Casa-Host" />
+</a>
+<a href="https://github.com/rans0/main-dengan-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rans0&repo=main-dengan-go" />
+</a>
+<a href="https://github.com/rans0/simple-crud-livewire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rans0&repo=simple-crud-livewire" />
+</a>
 
 ---
