@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm ran</h1>
-<h3 align="center">Code is not my passion, but i try to make it happen to me.</h3>
+<h1 align="center">Hi, I'm ran  :sunglasses: :sweat_smile:</h1>
+<h3 align="center">Code is not my passion, but i try to make it happen to me :stuck_out_tongue_winking_eye: :joy:</h3>
 
-<p>:grin: I’m currently focused <b>As Backend Engineer</p>
-<p>:heart: Latest favorite framework <b>Laravel</p>
+<p>:grin: I’m currently focused <b>As Backend Engineer</b></p>
+<p>:heart: Latest favorite framework <b>Laravel</b></p>
 
 ---
 
