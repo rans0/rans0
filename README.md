@@ -9,7 +9,7 @@
 _NOTE: Stats does not indicate my skill level or something like that :grimacing:_
 
 <a href="https://github.com/rans0">
-<img align="center" alt="rans Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rans0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="left" alt="Rans0 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rans0&show_icons=true&hide_border=true&theme=radical" />
 <a href="https://github.com/rans0">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rans0&hide=html,css,JavaScript,Blade&layout=compact&theme=radical" />
 </a>
