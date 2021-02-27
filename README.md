@@ -23,3 +23,7 @@ _NOTE: Stats does not indicate my skill level or something like that :grimacing:
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41975320/109388654-faef8f80-793a-11eb-993e-63574a312720.png" width="350" height="350" />
+</p>
